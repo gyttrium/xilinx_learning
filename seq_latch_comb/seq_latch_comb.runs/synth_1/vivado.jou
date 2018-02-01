@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Feb  1 15:27:45 2018
+# Process ID: 8806
+# Current directory: /home/harmon/Documents/grepos/xilinx_learning/seq_latch_comb/seq_latch_comb.runs/synth_1
+# Command line: vivado -log seq_latch_comb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source seq_latch_comb.tcl
+# Log file: /home/harmon/Documents/grepos/xilinx_learning/seq_latch_comb/seq_latch_comb.runs/synth_1/seq_latch_comb.vds
+# Journal file: /home/harmon/Documents/grepos/xilinx_learning/seq_latch_comb/seq_latch_comb.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source seq_latch_comb.tcl -notrace
